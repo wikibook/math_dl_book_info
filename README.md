@@ -1,4 +1,5 @@
 # 단기로 배우는 배우는 딥러닝의 수학
+
 ＊ 원서의 GitHub Repository: https://github.com/makaishi2/python-text-anl-book-info
 
 ![표지](images/hyoshi.png)
