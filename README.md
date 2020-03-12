@@ -1,4 +1,5 @@
-# (가제) 단기 코스로 배우는 딥러닝의 수학
+# 단기로 배우는 배우는 딥러닝의 수학
+
 ＊ 원서의 GitHub Repository: https://github.com/makaishi2/python-text-anl-book-info
 
 ![표지](images/hyoshi.png)
@@ -8,12 +9,12 @@
 // TODO: 이미지 변경
 
 ## 주요 내용
-'(가제) 단기 코스로 배우는 딥러닝의 수학'에 나오는 실습용 소스 코드와 환경 정보를 정리하였습니다.
+'단기로 배우는 배우는 딥러닝의 수학'에 나오는 실습용 소스 코드와 환경 정보를 정리하였습니다.
 
 * [소스 코드](notebooks.md)
 * [실습 환경 정보](notebook-ref.md)
 * [실습 관련 동영상](animations.md)
-* [정오표](errors.md) // TODO: 출판사 링크로 변경
+* [정오표](https://wikibook.co.kr/mathdl/#errata)
 * [오탈자 등록 및 기타 문의](https://wikibook.co.kr/support/contact/)
 
 ## 구매처
