@@ -1,12 +1,9 @@
 # 단기로 배우는 배우는 딥러닝의 수학
 
-＊ 원서의 GitHub Repository: https://github.com/makaishi2/python-text-anl-book-info
 
-![표지](images/hyoshi.png)
+![표지](images/mathdl_3D.png)
 
 ![fig04-04](images/fig04-04.png) ![fig09-22](images/fig09-22.png) 
-
-// TODO: 이미지 변경
 
 ## 주요 내용
 '단기로 배우는 배우는 딥러닝의 수학'에 나오는 실습용 소스 코드와 환경 정보를 정리하였습니다.
